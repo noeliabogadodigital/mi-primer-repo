@@ -1,6 +1,6 @@
 # Mi Primer Repo
 
-Bienvenida a este repositorio de practica.
+Bienvenida a este repositorio de práctica.
 
 ## Que encontraras aqui
 
@@ -13,4 +13,4 @@ Bienvenida a este repositorio de practica.
 2. Explora los archivos
 3. Haz tus propios cambios
 
-Creado con mucho esfuerso.
+Creado con mucho esfuerzo.
